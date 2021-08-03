@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-miragejs",
+  "description": "vue-cli plugin to add Mirage JS, an API mocking library.",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:socheatsok78/vue-cli-plugin-miragejs.git",
+  "author": "Socheat Sok <alex@socheat.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "miragejs": "^0.1.41"
+  },
+  "dependencies": {
+    "@vue/cli-shared-utils": "^4.5.13"
+  }
+}
